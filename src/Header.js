@@ -6,7 +6,7 @@ function Header() {
 
   return (
     <div className="App">
-        
+
         <personIcon />
       <h1> He is a person</h1>
     </div>
