@@ -1,0 +1,12 @@
+.Header{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.tinder-logo{
+    color: red;
+    object-fit: contain;
+    width: 40px;
+    height: 25px;
+}

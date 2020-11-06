@@ -8,7 +8,6 @@ function App() {
 
   return (
     <div className="App">
-      <h1>let's build a tinder clone app 🚀!</h1>
       <Header />
     </div>
   );
