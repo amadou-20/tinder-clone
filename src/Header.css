@@ -1,4 +1,4 @@
-.Header{
+.Header {
     margin-top: 20px;
     display: flex;
     justify-content: space-between;
@@ -10,5 +10,5 @@
     height: 25px;
 }
 .header_icon {
-    font-size: 700px;
+    font-size: 70px;
 }
