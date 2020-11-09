@@ -1,5 +1,6 @@
 import React from "react";
 import Header from './Header';
+import TinderCards from "./TinderCards";
 import './App.css';
 import { BrowserRouter as Router,Switch,Route,Link } from "react-router-dom";
 
@@ -9,6 +10,7 @@ function App() {
   return (
     <div className="App">
       <Header />
+      <TinderCards />
       <Router> 
         <Switch>
            <route path="/chat"><h1>we are going a chat</h1></route>

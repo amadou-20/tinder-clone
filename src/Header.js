@@ -18,14 +18,14 @@ function Header(){
             /> 
            <IconButton><ChatIcon className="header_icon" fontSize="large"/> </IconButton>
   
-  <form>
-    <select>
-      <option>facebook</option>
-      <option>twitter</option>
-      <option>instagram</option>
-      <option>tinder</option>
-    </select>
-  </form>
+            <form>
+              <select>
+                <option>Facebook</option>
+                <option>Twitter</option>
+                <option>Instagram</option>
+                <option>Tinder</option>
+              </select>
+            </form>
 
     </div>
   );
