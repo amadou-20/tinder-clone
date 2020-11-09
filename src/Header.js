@@ -17,6 +17,16 @@ function Header(){
               alt="logo de tinder"
             /> 
            <IconButton><ChatIcon className="header_icon" fontSize="large"/> </IconButton>
+  
+  <form>
+    <select>
+      <option>facebook</option>
+      <option>twitter</option>
+      <option>instagram</option>
+      <option>tinder</option>
+    </select>
+  </form>
+
     </div>
   );
 }
