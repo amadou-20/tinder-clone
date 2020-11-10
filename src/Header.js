@@ -16,16 +16,7 @@ function Header(){
               src="https://1000logos.net/wp-content/uploads/2018/07/tinder-logo.png" 
               alt="logo de tinder"
             /> 
-           <IconButton><ChatIcon className="header_icon" fontSize="large"/> </IconButton>
-  
-            <form>
-              <select>
-                <option>Facebook</option>
-                <option>Twitter</option>
-                <option>Instagram</option>
-                <option>Tinder</option>
-              </select>
-            </form>
+           <IconButton><ChatIcon className="header_icon" fontSize="large"/> </IconButton>   
 
     </div>
   );
