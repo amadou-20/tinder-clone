@@ -11,6 +11,7 @@ function App() {
     <div className="App">
       <Header /> 
       <TinderCards />
+      <swipeButtons />
       <Router> 
         <Switch>
            <route path="/chat"><h1>we are going to chat</h1></route>
