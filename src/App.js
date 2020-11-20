@@ -2,11 +2,10 @@ import React from "react";
 
 import Header from './Header';
 import TinderCards from "./TinderCards";
-import swipeButtons from "./swipeButtons";
+import SwipeButtons from './SwipeButtons';
+
 import './App.css';
-
 import { BrowserRouter as Router,Switch,Route,Link } from "react-router-dom";
-
 
 function App() {
 
@@ -14,7 +13,7 @@ function App() {
     <div className="App">
       <Header /> 
       <TinderCards />
-      <swipeButtons />
+      <SwipeButtons />
 
       <Router> 
         <Switch>
