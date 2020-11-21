@@ -20,7 +20,7 @@ function Header({backButton}) {
      ) : ( 
       
         <IconButton>
-          <PersonIcon color="#00e676" className="header_icon" fontSize="large"/> 
+          <PersonIcon className="header_icon" fontSize="large"/> 
         </IconButton>
      )}
 
