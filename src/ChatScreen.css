@@ -36,6 +36,7 @@ color: gray;
     flex: 1;
     padding: 10px;
     border: none;
+    outline: 0;
 }
 .chatScreen_inputButton {
    border: none;
